@@ -20,7 +20,7 @@ cd Message-Encription
 chmod +x Message-Encription
 
 # Run the app
-./Message-Encription
+./MessageEncription
 ```
 
 # Command Line
