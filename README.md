@@ -61,7 +61,7 @@ Before using feature send message to your whatsapp contact with text encryption.
 
 # Setup API KEY
 # Example : 
-#     - api="CA6DSQ3CLPC6FCQ3CLPC6F"
+#     - api="--------------------"
 
 api=""
 ```
